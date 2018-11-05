@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Victor",
+    "description": "This project is really great.",
+    "slug": "Victor",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "https://2.bp.blogspot.com/-8d5ahTFBMAM/W8ZMgkh0WSI/AAAAAAAAAGI/8HgfXkCDz70EqOZbiyE4ICgNpB-kFO-ZgCLcBGAs/s1600/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5E0404"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
